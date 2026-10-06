@@ -1,0 +1,14 @@
+animations: to animate CSS elements
+@keyframe myName{
+    from{font-size:20px;}
+    to{font-size:40px;}
+}
+Animation Properties
+    1.animation-name 
+    2.animation-duration
+    3.animation-timing-function
+    4.animation-delay
+    5.animation-iteration-count
+    6.animation-direction
+Animation Shorthand
+    animation: rotate 2s linear 2s infinite normal;

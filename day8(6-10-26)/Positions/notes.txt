@@ -1,0 +1,6 @@
+Position
+    1.static-default position(the top,right,bottom,left and z-index properities have no effect)
+    2.relative-element is realtive to itself(the top,right,bottom,left,and z-index will work)
+    3.absolute-positioned relative to its closest positioned ancestor(removed from the flow)
+    4.fixed-positioned relative to  browser(removed from flow)
+    5.sticky-positiones based on users scrolls position.
