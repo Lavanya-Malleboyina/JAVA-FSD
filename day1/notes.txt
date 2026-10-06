@@ -1,0 +1,56 @@
+Front End (Client):
+
+-> Whatever the user can see on the screen (User Interface) is called the **Front End**.
+
+Middle Layer (Server/Backend):
+
+-> In the Backend, all the **requests and responses are handled by the server**.
+-> Here, the main **business logic and validations** are performed and data is stored in the Database.
+
+Database:
+
+-> Database is the place where we can **store data for further operations**.
+
+Web Applications:
+
+-> Any application that runs in a **web browser** is called a **Web Application**.
+
+Types:
+
+1. Static Web Applications:
+
+-> Any Web Application that **doesn't have dynamic functionalities** is called a **Static Web Application**.
+-> To build Static Pages, we mainly use **HTML and CSS**.
+
+2. Dynamic Web Applications:
+
+-> Any Web Application having **dynamic functionalities** is called a **Dynamic Web Application**.
+-> To build Dynamic Pages, we use **HTML, CSS, and JavaScript**.
+
+SGML:
+
+-> SGML stands for **Standard Generalized Markup Language**.
+-> HTML was originally based on SGML.
+
+HTML:
+
+-> HTML stands for **HyperText Markup Language** and is used to build the **structure of web pages**.
+-> HTML was introduced in **1991** by the developer **Tim Berners-Lee**.
+-> HTML contains a series of **Elements**.
+-> The present standard is **HTML5**.
+
+HTML Boilerplate:
+
+-> HTML Boilerplate is the **basic/default structure of an HTML document**.
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+```
