@@ -1,0 +1,81 @@
+Tags:
+    ->Tags are pre-defined words which are enclosed with angular brackets
+Ex: <h1> , <meta> , <title> , <p> , <figure> , <li> ..etc 
+
+Types:
+
+1. Paired tags
+    ->Any tags having both opening and closing tags
+
+    Ex:
+
+i. All heading tags
+
+    Ex:
+
+    <h1>  </h1>
+    <h2>  </h2>
+    <h3>  </h3>
+    <h4>  </h4>
+    <h5>  </h5>
+    <h6>  </h6>
+
+ii. Formatting tags :
+Ex:
+
+<i> </i>            ->italic <em></em>           ->italic <b></b>             ->bold <strong></strong>   ->bold <u></u>             ->underline <strike></strike>   ->to strike text <sub></sub>         ->SubScript <sup></sup>         ->Super Script <mark></mark>       ->to highlight text
+
+<center></center>   ->content at center 
+<marquee></marquee> ->to scroll content in different directions
+
+2. Unpaired tags / Self closing tags
+    ->Any Tags having only opening tags
+
+Ex: <br> , <hr>, <img> , <col>, <input> , <meta> ..etc
+
+Attribute :
+    ->Attributes are the additional information given to the tags
+    ->Attributes are always written inside the opening tag
+
+Ex:
+
+<h1 align="center" id="heading"> </h1> 
+
+or
+
+<img src="" alt="" height="" width="">
+
+HTML Elements :
+
+->Opening tag, closing tag and the content together is called an HTML Element
+
+Ex:
+
+<h1> Heading </h1>
+
+<p> Paragraph </p>
+
+Form tags :
+
+    <form></form>
+    <fieldset></fieldset>
+    <legend></legend>     
+    <label> </label>    
+    <input> 
+    <textarea> </textarea>  
+    <button></button>  
+    <select></select>
+
+JOB APPLICATION FORM :
+
+    1. First Name
+    2. Last Name
+    3. Email
+    4. Phone
+    5. Gender
+    6. College Name
+    7. Address
+    8. State   -> 5 states
+    9. Skills  -> Java, Spring Boot, API Integration, Postman, SQL, MySQL, React
+    10. Language -> English, Telugu, Kannada, Hindi
+    11. Resume
