@@ -1,0 +1,56 @@
+functions:
+Arrow function:
+    it is used to reduce the syntax  
+    it is introduced in the version es6
+    it follows 3 rules:
+        1.if arrow function contains more than one statement we keep in braces{}
+        2.if arrow function contains return keyword then also we need keep in braces{}
+        3.in arrow functions this keyword works differently(so if you are accessing this keyword in arrow function it will target windows object)
+Nested functions:
+    function having another function.
+High OrderFunction:
+    Any function that accept another function as a parameter
+callback Function:
+    any functions that will pass as parameter to the high order function that function we called as a callback functions.
+Generator Function:
+    it used to generate a new variable.
+    we use the yield keyword in this function.
+    it used when you dont know how
+    syntax:
+        function* generateFun(){
+            yield a=10;
+            yield b=20;
+            console.log("This is generate function");
+        }
+---------------------------------------------------------------------------------------------------------------------------------
+JSON:(javascript Object Notation)
+    * it is similar to javascript object
+    * here keys are in objects
+    ->JSON inbuilt functions:
+        1.JSON.stringify(//we have to pass parameters)
+        2.JSON.parse(); : to convert string into object
+-----------------------------------------------------------------------------------------------------------------------
+BOM(Browser Object Model):
+    * each and every  Browser contains BOMS.
+    * it contains inbuilt windows objects.
+    inbuilt window Functions
+        1.innerHeight()
+        2.innerWidth()
+        3.outerHeight()
+        4.outerWidth()
+        5.windows.open();
+        6.windows.close()
+        7.windows.resize()
+        8.alert()
+        9.confirm()
+        10.prompt()
+        11.sessionStorage()
+        12.localStorage()
+        13.cookies()
+        14.DOM()
+
+
+
+
+
+
